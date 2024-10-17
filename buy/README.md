@@ -71,3 +71,7 @@
 
 ### 7. 不能為空
 ![不能為空](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E4%B8%8D%E8%83%BD%E7%82%BA%E7%A9%BA.png)
+
+### 8. swaggerUI
+![swaggerUI](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/swaggerUI.png)
+
