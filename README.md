@@ -53,23 +53,23 @@
 
 ## 圖片展示
 
-### 1. 不能為空
-![不能為空](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E4%B8%8D%E8%83%BD%E7%82%BA%E7%A9%BA.png)
+### 1. 前臺購買畫面
+![前臺購買畫面](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%89%8D%E8%87%BA%E8%B3%BC%E8%B2%B7%E7%95%AB%E9%9D%A2.png)
 
 ### 2. 前臺按購買後畫面
 ![前臺按購買後畫面](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%89%8D%E8%87%BA%E6%8C%89%E8%B3%BC%E8%B2%B7%E5%BE%8C%E7%95%AB%E9%9D%A2.png)
 
-### 3. 前臺購買畫面
-![前臺購買畫面](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%89%8D%E8%87%BA%E8%B3%BC%E8%B2%B7%E7%95%AB%E9%9D%A2.png)
+### 3. 訂單提交成功
+![訂單提交成功](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E8%A8%82%E5%96%AE%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F.png)
 
-### 4. 後臺更新產品價格
-![後臺更新產品價格](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%BE%8C%E8%87%BA%E6%9B%B4%E6%96%B0%E7%94%A2%E5%93%81%E5%83%B9%E6%A0%BC.png)
-
-### 5. 後臺空的值
-![後臺空的值](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%BE%8C%E8%87%BA%E7%A9%BA%E7%9A%84%E5%80%BC.png)
-
-### 6. 後臺畫面
+### 4. 後臺畫面
 ![後臺畫面](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%BE%8C%E8%87%BA%E7%95%AB%E9%9D%A2.png)
 
-### 7. 訂單提交成功
-![訂單提交成功](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E8%A8%82%E5%96%AE%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F.png)
+### 5. 後臺更新產品價格
+![後臺更新產品價格](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%BE%8C%E8%87%BA%E6%9B%B4%E6%96%B0%E7%94%A2%E5%93%81%E5%83%B9%E6%A0%BC.png)
+
+### 6. 後臺空的值
+![後臺空的值](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E5%BE%8C%E8%87%BA%E7%A9%BA%E7%9A%84%E5%80%BC.png)
+
+### 7. 不能為空
+![不能為空](https://github.com/lanlan0214/Next.js-.Net-Core/blob/main/buy/app/assets/%E4%B8%8D%E8%83%BD%E7%82%BA%E7%A9%BA.png)
